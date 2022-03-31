@@ -1,7 +1,7 @@
-<h1 align="center">В данной работы были выполнены следующие задачи:
+<h2 align="center">В данной работы были выполнены следующие задачи:
 - Подключение к API с курсом валют ЦБ РФ
 - Отправка GET запросов через axios
 - Работа с классами и наследованием
 - Подключение обработчика событий на динамически создаваемые элементы
-</h1>
-<h3 align="center">Junior frontend developer, Ermek Akelov</h3>
+</h2>
+<h4 align="center">Junior frontend developer, Ermek Akelov</h4>
