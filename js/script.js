@@ -63,7 +63,7 @@ function render(currencies) {
         // создаем основную строку с информацией
         currencyRow.innerHTML = `
         <td class="tooltip" data-text="${currency.name}">${currency.charCode}</td>
-        <td class="date">${currency.date}</td>
+        <td class="date">${currency.date.slice(0, 10)}</td>
         <td class="value">${currency.value}</td>
         <td class="coefficient">${currency.stonks}% ${currency.stonksDirection}</td>
         `;
